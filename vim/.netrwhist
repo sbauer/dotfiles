@@ -1,7 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/Users/sbauer/projects/southpaw/lib/southpaw'
-let g:netrw_dirhist_2='/Users/sbauer'
-let g:netrw_dirhist_3='/Users/sbauer/projects'
-let g:netrw_dirhist_4='/Users/sbauer/projects/bauer'
-let g:netrw_dirhist_5='/Users/sbauer/projects/bauer/app'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/sbauer/projects/southpaw'
+let g:netrw_dirhist_2='/Users/sbauer/projects/southpaw/lib'
+let g:netrw_dirhist_3='/Users/sbauer/projects/southpaw'
+let g:netrw_dirhist_4='/Users/sbauer/projects/southpaw/spec'
